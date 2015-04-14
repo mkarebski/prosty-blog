@@ -1,0 +1,8 @@
+<article ng-repeat="post in posts">
+	<h3 class="title"><a href="#/post/{{post.title}}">{{ post.title }}</a></h3>
+	<span class="author"><a href="#/author/{{post.author}}">{{ post.author }}</a></span>
+	<span class="category">{{ post.kategoria }}</span>
+	<span class="date">{{ post.date }}</span>
+	<br />
+	<p class="content">{{ post.intro }}</p> 
+</article>

@@ -1,0 +1,42 @@
+  [
+    {
+      "date": "29.03.2015",
+     "kategoria": "Nauka",
+      "title": "Kolejny duży krok ku ożywieniu mamutów",
+      "author": "Krzysiek Dzieliński",
+      "intro": "Naukowcy z Uniwersytetu Harvarda zrobili właśnie kolejny duży krok ku przywróceniu do życia mamutów.",
+      "content": "Zespół profesora George'a Churcha skutecznie wszczepił fragment DNA mamuta do genomu żyjącego współcześnie słonia.\n\nPierwszym krokiem było przeanalizowanie DNA mamuta odzyskanego z próbki wykopanej w syberyjskiej tundrze. Badacze skupili się przy tym na genach związanych odpornością tego zwierzęcia na zimno - a więc odpowiadających między innymi za grubą sierść, większy magazyn tłuszczu, rozmiar uszu i hemoglobinę. £ącznie skopiowano 14 genów mamuta, a następnie wszczepiono je najbliższemu krewnemu tego wymarłego zwierzęcia - słoniowi indyjskiemu. Wykorzystano do tego odkrytą niedawno metodę korzystającą z CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) - grupy enzymów broniących bakterie przed bakteriofagami czy wirusami. \n\nEnzymy te działają bardzo precyzyjnie - każdy z nich wycelowany jest w jedną konkretną parę zasad wśród trzech miliardów wszystkich dostępnych w cząsteczce DNA, co przypominać może znalezienie igły w bardzo dużym stogu siana, dzięki czemu możliwe jest bardzo dokładne modyfikowanie DNA. \n\nDzięki temu powstał żywy słoń noszący w sobie geny mamuta. Na razie małą ich część, ale naukowy uważają, że jeśli będą składać genetyczne puzzle kawałek po kawałku to w końcu uda im się zrekonstruować mamuta. \n\nNadal jednak otwarte pozostaje pytanie - po co?"
+    },
+    {
+      "date": "29.03.2015",
+     "kategoria": "Nauka",
+      "title": "Ile czasu człowiek spadałby przez środek Ziemi",
+      "author": "Krzysiek Dzieliński",
+      "intro": "Gdyby w Ziemi zrobić dziurę na wylot to ile czasu człowiek leciałby zanim by wypadł na przeciwnym krańcu globu?",
+      "content": "Jeśli odpowiecie 42 minuty i 12 sekund (a tak myślano do tej pory) to będzie to odpowiedŸ błędna. Tak naprawdę leciałoby się nieco krócej.\n\nNieco krócej oznacza tu 38 minut i 11 sekund - tyle właśnie wyliczył student Uniwersytetu McGilla Alexander Klotz. Wziął on po prostu pod uwagę fakt, który umknął wszystkim osobom obliczającym ten czas przed nim - Ziemia nie ma we wnętrzu jednolitej struktury i miejscami jest ona gęstsza (w rdzeniu), a miejscami mniej gęsta (chociażby w skorupie).\n\nA prędkość spadania będzie zależała nie tylko od naszej odległości o samego środka Ziemi lecz także właśnie od gęstości jej poszczególnych warstw.\n\nNo, to jeden problem z głowy mniej."
+    },
+    {
+      "date": "28.03.2015",
+     "kategoria": "Nauka",
+      "title": "Wiemy już, ile trwa doba na Saturnie",
+      "author": "Filip Geekowski",
+      "intro": "Naukowcy z Uniwersytetu w Tel Awiwie ustalili dokładny czas obrotu planety Saturn wokół własnej osi.",
+      "content": "Do tej pory dane te były nieprecyzyjnie.\n\nPo raz pierwszy dobę na Saturnie wyliczono na podstawie pomiarów wykonanych przez sondę Voyager-2 w 1980 roku.\n\nByło to 10 godzin 39 minut i 22 sekundy. Również dane z sondy Cassini nie były trafne. Doba miała mieć 10 godzin 47 minut i 6 sekund.\n\nIzraelscy naukowcy skupili się na charakterystycznym kształcie planety oraz na jej polu grawitacyjnym.\n\nUtrudnione było to przez fakt, że Saturn nie posiada skalistej powierzchni, a jego gazowa atmosfera jest bardzo gęsta.\n\nMimo to pomiar okazał się wyjątkowo precyzyjny. Doba trwa na Saturnie 10 godzin 32 minuty i 45 sekund, a więc aż o 15 minut krócej niż dotąd myślano.\n\nSaturn, który pod względem średnicy jest aż 9 razy większy od Ziemi, obraca się tak szybko, że jeden pełny obrót zajmuje mu ponad dwukrotnie mniej niż Ziemi."
+    },
+    {
+      "date": "27.03.2015",
+     "kategoria": "Nauka",
+      "title": "NASA testuje nowy lądownik na Marsa",
+      "author": "Filip Geekowski",
+      "intro": "NASA rozpoczęła testy marsjańskiego lądownika, który umożliwi o wiele precyzyjniejsze, niż dotychczas miało to miejsce, lądowanie na powierzchni Księżyca czy Marsa.",
+      "content": "System o nazwie ADAPT jest wspólnym dziełem inżynierów z Amerykańskiej Agencji Kosmicznej i firmy Masten Space Systems.\n\nDo budowy nowej generacji lądownika posłużyła już sprawdzona w akcji i zasłużona rakieta Masten XA-O.1B Xombi.\n\nDysponuje ona możliwością pionowego startu i lądowania, a w połączeniu z udoskonalonym lądownikiem, NASA otrzyma nowoczesny, niezawodny środek transportu dla np. łazików, a w przyszłości także zaopatrzenia dla kolonizatorów.\n\nJest to o tyle istotne, że do tej pory obszar, w którym mógł wylądować łazik, rozciągał się na ponad 120 kilometrów kwadratowych, więc można śmiało rzec, że miejsce lądowania było dziełem przypadku."
+    },
+    {
+      "date": "26.03.2015",
+     "kategoria": "Nauka",
+      "title": "Steve Wozniak obawia się potęgi robotów",
+      "author": "Filip Geekowski",
+      "intro": "Coraz więcej naukowców i wizjonerów obawia się oraz ostrzega ludzkość przez rozwojem sztucznej inteligencji.", 
+      "content": "Niedawno obszernie na ten temat wypowiedział się Elon Musk, Stephen Hawking i Bill Gates, a teraz swoje trzy grosze dorzucił także współzałożyciel Apple, Steve Wozniak.\n\nMa on złe przeczucia, które związane są z rosnącymi możliwościami i potęgą sztucznej inteligencji. Bez wątpienia uważa on, że ta gałąŸ technologii jest przyszłością naszej cywilizacji i nic nie powstrzyma jej rozwoju, co już niedługo zaowocuje przejęciem przez komputery kontroli nad światem.\n\nMało tego, sądzi on również, że będą one traktowały człowieka jak zwierzę hodowlane, a to dlatego, iż według nich będzie za bardzo leniwy i mało wydajny w najróżniejszych pracach.\n\nObawy Wozniaka wydają się zasadne, zwłaszcza, gdy popatrzymy na to z punktu widzenia zastosowania SI, a najbardziej przecież są nią zainteresowane agencje wojskowe, które to chcą ją wykorzystać na polach walki.\n\nNatomiast jeśli temat rozważymy w kwestiach ewolucji i przejmowania władzy przez lepiej przystosowane gatunki, co miało już miejsce i ma nadal w przyrodzie, to można pokusić się o stwierdzenie, że i my, ludzie, zostaniemy wyeliminowani przez nowy, lepszy gatunek.\n\nW tym przypadku nie będzie to jednak biologiczny organizm, tylko elektroniczny. Będzie on naszym produktem, więc można powiedzieć, że wówczas uczeń przewyższy mistrza. Niestety, sami zgotujemy sobie taki los, ale już taka kolej rzeczy.\n\nPytanie brzmi, w imię czego powoli oddajemy władzę elektronice? I czy to jest tego warte?"
+    }
+  ]
